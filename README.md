@@ -1,16 +1,16 @@
 # Apol Hidalgo
 
-**Operations Leader · Entrepreneur · Founder, Hidalgo Studio**
+**Operations Leader · Entrepreneur · Hands-on Software Builder**
 
-I connect operations leadership, entrepreneurship, and practical software development. My approach starts with understanding the business, simplifying the workflow, and building tools that help people do their work.
+I connect operations leadership, entrepreneurship, and hands-on software development. My approach starts with understanding the business, simplifying the workflow, and building tools that help people do their work.
 
-Through **Hidalgo Studio**, I’m building business software and exploring practical uses of AI in everyday operations.
+As founder of **Hidalgo Studio**, I’m building business software and exploring practical uses of AI in everyday operations. I bring an operator’s perspective to the products I build, connecting business needs with practical implementation.
 
 ## Where operations meets software
 
 - **Operations leadership** — bringing people, processes, and systems together around clear priorities.
 - **Entrepreneurship** — building businesses with a focus on usefulness and sustainable value.
-- **Practical software** — translating operational needs into tools shaped by real business contexts.
+- **Hands-on software building** — translating operational needs into working tools, from business websites to applications that support day-to-day operations.
 - **Process improvement and automation** — finding opportunities to simplify workflows and reduce repetitive work.
 
 ## Businesses and projects
@@ -21,12 +21,17 @@ Through **Hidalgo Studio**, I’m building business software and exploring pract
 | **Hidalgo Med** | A medical clinic electronic medical records (EMR) software project. **Work in progress.** |
 | **Casa Karmela** | My hospitality business, bringing an entrepreneurial and operational perspective to guest services. |
 | **Pharmacy Buddy** | A pharmacy software project. |
+| **Independent staffing business platform** | An independently built platform spanning a business website, applicant tracking (ATS), customer relationship management (CRM), finance, and operational workflows. |
 
 These descriptions reflect each venture’s focus; they do not imply that every software project is complete or publicly available.
 
-## Internal software and automation
+## Corporate operations technology
 
-Alongside my own ventures, I build operations-focused internal software and work on process automation as part of my employment. This work is separate from my independent projects. I describe it only at a high level to respect employer confidentiality and proprietary information.
+Alongside my independent ventures, my professional work includes corporate operations technology and process automation. Employer-owned work is separate from my personal products and is described here only at a high level to respect confidentiality.
+
+## Other interests
+
+Beyond software and business operations, I maintain an interest in private investments and trading.
 
 ## How I approach building
 
