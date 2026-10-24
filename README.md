@@ -1,40 +1,74 @@
+
 # Apol Hidalgo
 
 **Operations Leader · Entrepreneur · Hands-on Software Builder**
 
-I connect operations leadership, entrepreneurship, and hands-on software development. My approach starts with understanding the business, simplifying the workflow, and building tools that help people do their work.
+I connect operations leadership, entrepreneurship, and hands-on software development.
 
-As founder of **Hidalgo Studio**, I’m building business software and exploring practical uses of AI in everyday operations. I bring an operator’s perspective to the products I build, connecting business needs with practical implementation.
+With 15+ years of experience across business operations, recruitment, people management, and international business environments, I bring a practical understanding of how organizations operate, where challenges arise, and how technology can help solve them.
 
-## Where operations meets software
+My approach starts with understanding the business, simplifying processes, and building solutions that make everyday operations more efficient.
 
-- **Operations leadership** — bringing people, processes, and systems together around clear priorities.
-- **Entrepreneurship** — building businesses with a focus on usefulness and sustainable value.
-- **Hands-on software building** — translating operational needs into working tools, from business websites to applications that support day-to-day operations.
-- **Process improvement and automation** — finding opportunities to simplify workflows and reduce repetitive work.
+As the founder of **Hidalgo Studio**, I develop business-focused software and explore practical applications of AI and automation. I bring an operator's perspective to technology, connecting real business requirements with functional solutions.
 
-## Businesses and projects
+## Where Operations Meets Technology
 
-| Business or project | Focus |
-| --- | --- |
-| **Hidalgo Studio** | My studio for practical software and business solutions. |
-| **Hidalgo Med** | A medical clinic electronic medical records (EMR) software project. **Work in progress.** |
-| **Casa Karmela** | My hospitality business, bringing an entrepreneurial and operational perspective to guest services. |
-| **Pharmacy Buddy** | A pharmacy software project. |
-| **Independent staffing business platform** | An independently built platform spanning a business website, applicant tracking (ATS), customer relationship management (CRM), finance, and operational workflows. |
+- **Operations Leadership** — Leading people, managing business processes, strengthening stakeholder relationships, and improving operational performance.
+- **Entrepreneurship** — Building and managing businesses across different industries, with a focus on operational efficiency, customer experience, and sustainable growth.
+- **Software Development** — Designing and building practical business applications, management systems, and digital solutions.
+- **Business Process Improvement** — Identifying inefficiencies, streamlining workflows, and introducing systems that support better business operations.
+- **AI & Automation** — Exploring and implementing responsible technology solutions that reduce repetitive work and improve operational visibility.
 
-These descriptions reflect each venture’s focus; they do not imply that every software project is complete or publicly available.
+## Businesses & Projects
 
-## Corporate operations technology
+| Business / Project | Focus |
+|---|---|
+| **Hidalgo Studio** | Custom software development and business solutions designed around real operational needs. |
+| **Hidalgo Med** | Electronic Medical Records (EMR) and clinic management software for small healthcare practices. Currently in development. |
+| **Casa Karmela** | Hospitality business combining entrepreneurship, guest experience, and hands-on operations management. |
+| **Pharmacy Buddy** | Pharmacy-focused software project exploring practical digital solutions for pharmacy operations. |
+| **Business Operations Platform** | Independently developed software incorporating CRM, workflow management, financial administration, and operational reporting. |
 
-Alongside my independent ventures, my professional work includes corporate operations technology and process automation. Employer-owned work is separate from my personal products and is described here only at a high level to respect confidentiality.
+These projects reflect my involvement in business development, system design, software implementation, and operational management. Some are actively being developed and are not yet publicly available.
 
-## Other interests
+## Corporate Operations & Technology
 
-Beyond software and business operations, I maintain an interest in private investments and trading.
+Alongside my independent ventures, my professional experience includes managing client operations, leading teams, improving business processes, and developing technology-driven operational solutions.
 
-## How I approach building
+My work involves identifying opportunities to strengthen service delivery, improve operational visibility, and apply automation to practical business challenges.
 
-Start with a real operational need. Keep the workflow clear. Build something useful, learn, and improve it.
+Employer-owned projects, internal systems, and confidential business information remain separate from my independent ventures and are not publicly disclosed.
 
-[Explore my public GitHub work](https://github.com/apolmoraleshidalgo-cmd?tab=repositories)
+## Entrepreneurship & Investments
+
+Beyond my corporate career and software development work, I'm actively involved in entrepreneurship, business ownership, and private investments.
+
+My interests and activities span:
+
+- **Business Ownership & Operations** — Developing and managing ventures in hospitality, technology, and other industries.
+- **Private Investments** — Participating in business investment opportunities, including provincial bulk water distribution.
+- **Financial Markets** — Independently trading and investing in cryptocurrency, foreign exchange (forex), and equities.
+
+These experiences contribute to how I approach business decisions, evaluate opportunities, manage risks, and build sustainable operations.
+
+## How I Approach Building
+
+I believe effective business solutions should start with understanding the problem, not choosing the technology.
+
+My approach is straightforward:
+
+1. Understand the business and its challenges.
+2. Identify inefficiencies and opportunities for improvement.
+3. Design practical and scalable solutions.
+4. Build, test, and refine based on actual operational needs.
+5. Continuously improve and take ownership of the outcome.
+
+**Build it efficiently. Run it well. Own the outcome.**
+
+---
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/apolmoraleshidalgo)
+- [Hidalgo Studio](https://hidalgostudio.online)
+- [Casa Karmela](https://www.casakarmela.com)
