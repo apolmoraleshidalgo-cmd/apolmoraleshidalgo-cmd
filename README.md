@@ -2,31 +2,34 @@
 
 **Operations Leader · Entrepreneur · Founder, Hidalgo Studio**
 
-I bring an operations perspective to building practical software: understand the business, simplify the workflow, and make the tools useful to the people doing the work.
+I connect operations leadership, entrepreneurship, and practical software development. My approach starts with understanding the business, simplifying the workflow, and building tools that help people do their work.
 
-Through **Hidalgo Studio**, I’m building business software and exploring how AI can support everyday operations.
+Through **Hidalgo Studio**, I’m building business software and exploring practical uses of AI in everyday operations.
 
 ## Where operations meets software
 
-- **Operations leadership** — connecting people, processes, and systems around clear priorities.
-- **Business software** — translating operational needs into practical tools.
-- **Entrepreneurship** — building with a focus on usefulness and sustainable business value.
-- **Applied AI** — exploring ways to reduce repetitive work and support better decisions.
+- **Operations leadership** — bringing people, processes, and systems together around clear priorities.
+- **Entrepreneurship** — building businesses with a focus on usefulness and sustainable value.
+- **Practical software** — translating operational needs into tools shaped by real business contexts.
+- **Process improvement and automation** — finding opportunities to simplify workflows and reduce repetitive work.
 
-## Selected work
+## Businesses and projects
 
-| Project | Focus |
+| Business or project | Focus |
 | --- | --- |
-| **Hidalgo Studio** | My studio for practical software and AI-powered business solutions. |
-| **Hidalgo Med** | A business software project within my portfolio. |
-| **Casa Karmela** | A business software project within my portfolio. |
+| **Hidalgo Studio** | My studio for practical software and business solutions. |
+| **Hidalgo Med** | A medical clinic electronic medical records (EMR) software project. **Work in progress.** |
+| **Casa Karmela** | My hospitality business, bringing an entrepreneurial and operational perspective to guest services. |
+| **Pharmacy Buddy** | A pharmacy software project. |
 
-Project summaries here are intentionally high-level. Source code, internal workflows, and confidential business information remain private.
+These descriptions reflect each venture’s focus; they do not imply that every software project is complete or publicly available.
+
+## Internal software and automation
+
+Alongside my own ventures, I build operations-focused internal software and work on process automation as part of my employment. This work is separate from my independent projects. I describe it only at a high level to respect employer confidentiality and proprietary information.
 
 ## How I approach building
 
-Start with a real operational need. Keep the workflow clear. Build something useful, learn from its use, and improve it.
-
----
+Start with a real operational need. Keep the workflow clear. Build something useful, learn, and improve it.
 
 [Explore my public GitHub work](https://github.com/apolmoraleshidalgo-cmd?tab=repositories)
